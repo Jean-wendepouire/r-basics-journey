@@ -8,7 +8,7 @@ I'm learning to think in R, understanding vectors, subsetting, attributes, and l
 
 ## Progress
 - [x] Setup
-- [ ] 01-vectors-intro
+- [x] 01-vectors-intro
 - [ ] 02-coercion-and-attributes
 - [ ] 03-matrices-from-vectors
 - [ ] 04-lists
